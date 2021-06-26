@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-class Craps {
+public class Craps {
     public static void main(String[] args) {
 
         System.out.println("\nWelcome to Craps! How many rounds would you like to play?");
